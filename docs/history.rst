@@ -4,6 +4,7 @@ Change Log
 Latest
 ------
 - ENH: Allow cimport (pull #870)
+- DOC: Add new pyproj logo (issue #700)
 
 3.1.0
 -----
